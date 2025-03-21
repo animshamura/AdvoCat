@@ -36,8 +36,8 @@ Additionally, the system logs all user queries and responses to a database for a
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/advo-cat.git
-cd advo-cat
+git clone https://github.com/shamuraanim7/AdvoCat.git
+cd AdvoCat
 ```
 
 2. **Install required dependencies**:
